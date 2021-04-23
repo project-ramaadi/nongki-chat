@@ -8,3 +8,6 @@ A simple Proof-of-concept chat system using PeerJS.
 
 ## Installation
 No installation necessary.
+
+## Live demo
+No time to deploy your own solution? Try ours at [https://rtc-chat.rama-adi.dev/](https://rtc-chat.rama-adi.dev/). Do note that it's running on PeerJS's open server
